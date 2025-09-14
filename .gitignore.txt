@@ -1,9 +1,0 @@
-.env
-config.py
-__pycache__/
-*.pyc
-temp.jpg
-*.pth
-model_weights/
-.vscode/
-.DS_Store
