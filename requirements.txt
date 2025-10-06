@@ -1,5 +1,6 @@
-pyTelegramBotAPI
 torch
 torchvision
-pillow
+torchaudio
+pyTelegramBotAPI
+Pillow
 git+https://github.com/openai/CLIP.git
